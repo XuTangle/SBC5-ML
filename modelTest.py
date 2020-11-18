@@ -11,7 +11,7 @@ from tensorflow.keras.models import Sequential
 from keras.applications.resnet50 import ResNet50
 
 import pathlib
-data_dir = pathlib.Path("images")
+data_dir = pathlib.Path("images2")
 
 batch_size = 32
 img_height = 180
